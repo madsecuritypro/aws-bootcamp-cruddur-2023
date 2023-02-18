@@ -1,5 +1,7 @@
 # Week 0 — Billing and Architecture
 
+Create a new User and Generate AWS Credentials
+
 
 #Launching AWS CloudShell and looking at AWS CLI
 
@@ -15,5 +17,7 @@ AWS CloudShell (Adding an auto prompt)
 Installed AWS CLI
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/125198688/219829593-f9a591f7-d886-4cd0-86bf-a547d243f6a3.png">
 
+Set Env Vars
 
+We will set these credentials for the current bash terminal
 ![image](https://user-images.githubusercontent.com/125198688/219830211-809aa269-2928-426c-87b6-99c41826d39e.png)
