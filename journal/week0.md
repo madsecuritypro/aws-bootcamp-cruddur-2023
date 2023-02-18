@@ -1,5 +1,16 @@
 # Week 0 — Billing and Architecture
 
+**High Level Application Requirements:**
+1. Application using micro services
+2. The frontend is in JS and the backend is in Python
+3. Using api to communicate
+4. Authentication using Cognito
+5. Use as much as possible the aws free tier
+6. Momento as a third party caching system
+
+
+Architecture Diagrams:
+
 [Conceptual Diagram](https://lucid.app/lucidchart/1cb377e3-1865-4021-95bf-be06b4c94a2c/edit?viewport_loc=-11%2C96%2C1957%2C976%2C0_0&invitationId=inv_79d21c87-6a7d-488a-b15d-9d8a81113f97)
 
 ![image](https://user-images.githubusercontent.com/125198688/219836446-c0e0d118-2d54-482b-9b9e-8644def2597d.png)
