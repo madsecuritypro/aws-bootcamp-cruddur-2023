@@ -9,3 +9,11 @@ AWS CloudShell (Adding an auto prompt)
 
 
 <img width="1267" alt="image" src="https://user-images.githubusercontent.com/125198688/219796210-adebbcce-fd4a-4f56-a2bb-00fa520ab995.png">
+
+
+
+Installed AWS CLI
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/125198688/219829593-f9a591f7-d886-4cd0-86bf-a547d243f6a3.png">
+
+
+![image](https://user-images.githubusercontent.com/125198688/219830211-809aa269-2928-426c-87b6-99c41826d39e.png)
