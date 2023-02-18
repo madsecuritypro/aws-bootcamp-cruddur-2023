@@ -1,7 +1,14 @@
 # Week 0 — Billing and Architecture
 
+
+[Conceptual Design](https://lucid.app/lucidchart/1cb377e3-1865-4021-95bf-be06b4c94a2c/edit?viewport_loc=-8%2C124%2C1957%2C976%2C0_0&invitationId=inv_79d21c87-6a7d-488a-b15d-9d8a81113f97)
+
+![image](https://user-images.githubusercontent.com/125198688/219842717-fb0b9c53-14f2-4512-bcd7-27a3e0257bcf.png)
+
+
 Create a new User and Generate AWS Credentials
 
+![image](https://user-images.githubusercontent.com/125198688/219842667-4a0c12e8-9486-4693-ae00-b7bb3eba3b23.png)
 
 #Launching AWS CloudShell and looking at AWS CLI
 
