@@ -32,15 +32,22 @@ We will set these credentials for the current bash terminal
 
 Installed AWS CLI via Gitpod
 
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/125198688/219829593-f9a591f7-d886-4cd0-86bf-a547d243f6a3.png">
+
 ![image](https://user-images.githubusercontent.com/125198688/219843847-fe9e1dc1-bbcb-4cf6-8f21-edbd04418554.png)
 
 
 
-Created Budget via CLI as well as AWS Console
+Created Budget via AWS CLI 
 
 ![image](https://user-images.githubusercontent.com/125198688/219844786-b3060423-45e4-4734-848b-fb0b1444fa7c.png)
 
 ![image](https://user-images.githubusercontent.com/125198688/219844737-9238094e-218b-4df3-9c3a-47e85f5e26ca.png)
+
+
+Created Budget via AWS Console
+![image](https://user-images.githubusercontent.com/125198688/219868916-d5f263e1-e29e-437c-acfb-903f443aec12.png)
+
 
 SNS - Simple Notification Service - ALARM
 
@@ -49,7 +56,6 @@ SNS - Simple Notification Service - ALARM
 <img width="1489" alt="image" src="https://user-images.githubusercontent.com/125198688/219846027-4a914daa-c7da-4d8f-bae1-805ef2ea5376.png">
 
 
-<img width="1512" alt="image" src="https://user-images.githubusercontent.com/125198688/219829593-f9a591f7-d886-4cd0-86bf-a547d243f6a3.png">
 
 <img width="1489" alt="image" src="https://user-images.githubusercontent.com/125198688/219846059-3a10d585-50a2-4291-9956-b193737486e7.png">
 
