@@ -15,6 +15,10 @@ Architecture Diagrams:
 
 ![image](https://user-images.githubusercontent.com/125198688/219836446-c0e0d118-2d54-482b-9b9e-8644def2597d.png)
 
+[Logical Diagram](https://lucid.app/lucidchart/1483e0dc-c5bb-4062-bcb0-9e2941e05b8c/edit?view_items=gmnyJJXMyBQ-&invitationId=inv_24bd6ac3-ea9b-4d8c-9465-013b0e870855)
+![image](https://user-images.githubusercontent.com/125198688/219874596-186d26e0-3d0a-4021-98ae-dd4b27425fb9.png)
+
+
 
 Create a new User and Generate AWS Credentials
 
