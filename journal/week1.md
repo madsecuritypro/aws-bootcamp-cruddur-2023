@@ -69,8 +69,13 @@ docker build -t  backend-flask ./backend-flask
 
 ## Create the notification feature
 
-### Joining the crudder application first
+### Joining and authenticating into the crudder application first
 
 ![image](https://user-images.githubusercontent.com/125198688/221366591-76f99aaa-4284-407b-8db7-8fd4c1bbf933.png)
 
 ![image](https://user-images.githubusercontent.com/125198688/221366676-95acc1aa-ef55-4ac7-8016-13f9b9a15c06.png)
+
+### Update the OpenAPI to add Notifications
+
+![image](https://user-images.githubusercontent.com/125198688/221367860-cc30da5e-91e8-4d58-a61d-174ae7b718f9.png)
+
