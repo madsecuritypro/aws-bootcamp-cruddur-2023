@@ -51,10 +51,20 @@ docker build -t  backend-flask ./backend-flask
 
 
 ![image](https://user-images.githubusercontent.com/125198688/219881638-75f2a70b-c36a-43c1-896e-61bdbd7dc21d.png)
+<br/>
+<br/>
 
 ![image](https://user-images.githubusercontent.com/125198688/219881658-90f0654b-d0a4-4dd1-acce-b4ca4441b7ce.png)
-
+<br/>
+<br/>
 
 ![image](https://user-images.githubusercontent.com/125198688/219881813-61b32281-f14a-4208-bdc7-2fa50dd5d1fa.png)
+<br/>
+<br/>
 
 ![image](https://user-images.githubusercontent.com/125198688/221353143-578caa75-3740-425f-ad34-600b28ff613d.png)
+
+<br/>
+<br/>
+![image](https://user-images.githubusercontent.com/125198688/221366591-76f99aaa-4284-407b-8db7-8fd4c1bbf933.png)
+
