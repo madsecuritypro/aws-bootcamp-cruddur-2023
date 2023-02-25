@@ -1,21 +1,44 @@
 # Week 1 — App Containerization
 
-#### CTO expectation is to containerize the application
-1. React JS = Frontend
-2. Python Flask = Backend
 
-******************************************************************
+### Routine Billing Checkup
 
-### Billing
+- [x] Gitpod
 
-#### Gitpod
+
 
 ![image](https://user-images.githubusercontent.com/125198688/221349910-977c02df-cff6-4940-b262-0eb37a3b31f0.png)
 
 
-#### AWS
-To remain under free tear Chirag's recommendation was to avoid Cloud Trail for this bootcamp or be very cautious and use settings to only log mamagement events. Also AVOID logging KMS Encryption.
+- [x] AWS
+* To remain under free tear Chirag's recommendation was to avoid Cloud Trail for this bootcamp or be very cautious and use settings to only log mamagement events. Also AVOID logging KMS Encryption.
 ******************************************************************
+
+<br/>
+<br/>
+
+## CTO expectation is to containerize the application
+1. React JS = Frontend
+2. Python Flask = Backend
+
+<br/>
+<br/>
+
+## Containerize Backend
+
+### Run Python
+```sh
+cd backend-flask
+export FRONTEND_URL="*"
+export BACKEND_URL="*"
+python3 -m flask run --host=0.0.0.0 --port=4567
+cd ..
+```
+
+- make sure to unlock the port on the port tab
+- open the link for 4567 in your browser
+- append to the url to `/api/activities/home`
+- you should get back json
 
 
 ![image](https://user-images.githubusercontent.com/125198688/219881172-c4cd3341-258e-4eba-a545-cc622963c932.png)
