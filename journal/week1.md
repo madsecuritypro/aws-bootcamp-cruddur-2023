@@ -1,8 +1,21 @@
 # Week 1 — App Containerization
 
-#CTO expectation is to containerize the application
-#React JS = Frontend
-#Python Flask = Backend
+#### CTO expectation is to containerize the application
+1. React JS = Frontend
+2. Python Flask = Backend
+
+******************************************************************
+
+### Billing
+
+#### Gitpod
+
+![image](https://user-images.githubusercontent.com/125198688/221349910-977c02df-cff6-4940-b262-0eb37a3b31f0.png)
+
+
+#### AWS
+To remain under free tear Chirag's recommendation was to avoid Cloud Trail for this bootcamp or be very cautious and use settings to only log mamagement events. Also AVOID logging KMS Encryption.
+******************************************************************
 
 
 ![image](https://user-images.githubusercontent.com/125198688/219881172-c4cd3341-258e-4eba-a545-cc622963c932.png)
