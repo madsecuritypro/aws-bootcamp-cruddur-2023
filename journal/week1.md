@@ -43,6 +43,11 @@ cd ..
 
 ![image](https://user-images.githubusercontent.com/125198688/219881172-c4cd3341-258e-4eba-a545-cc622963c932.png)
 
+### Build Container
+
+```sh
+docker build -t  backend-flask ./backend-flask
+```
 
 
 ![image](https://user-images.githubusercontent.com/125198688/219881638-75f2a70b-c36a-43c1-896e-61bdbd7dc21d.png)
@@ -52,3 +57,4 @@ cd ..
 
 ![image](https://user-images.githubusercontent.com/125198688/219881813-61b32281-f14a-4208-bdc7-2fa50dd5d1fa.png)
 
+![image](https://user-images.githubusercontent.com/125198688/221353143-578caa75-3740-425f-ad34-600b28ff613d.png)
