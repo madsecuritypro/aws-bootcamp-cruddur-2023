@@ -67,9 +67,9 @@ docker build -t  backend-flask ./backend-flask
 <br/>
 <br/>
 
-### Create the notification feature
+## Create the notification feature
 
-## Joining the crudder application first
+### Joining the crudder application first
 
 ![image](https://user-images.githubusercontent.com/125198688/221366591-76f99aaa-4284-407b-8db7-8fd4c1bbf933.png)
 
