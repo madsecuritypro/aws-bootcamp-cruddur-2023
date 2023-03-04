@@ -80,3 +80,37 @@ docker build -t  backend-flask ./backend-flask
 ![image](https://user-images.githubusercontent.com/125198688/221367860-cc30da5e-91e8-4d58-a61d-174ae7b718f9.png)
 
 ![image](https://user-images.githubusercontent.com/125198688/221377371-8acffbfb-7fb4-4955-96a3-2520b21ba76a.png)
+
+
+
+###	Run DynamoDB Local Container and ensure it works
+##Adding DynamoDB Local and Postgres
+
+dynamodb-local:
+    # https://stackoverflow.com/questions/67533058/persist-local-dynamodb-data-in-volumes-lack-permission-unable-to-open-databa
+    # We needed to add user:root to get this working.
+    user: root
+    command: "-jar DynamoDBLocal.jar -sharedDb -dbPath ./data"
+    image: "amazon/dynamodb-local:latest"
+    container_name: dynamodb-local
+    ports:
+      - "8000:8000"
+    volumes:
+      - "./docker/dynamodb:/home/dynamodblocal/data"
+    working_dir: /home/dynamodblocal
+
+  db:
+    image: postgres:13-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+    ports:
+      - '5432:5432'
+    volumes: 
+      - db:/var/lib/postgresql/data
+
+![image](https://user-images.githubusercontent.com/125198688/222917051-1bd56dd5-96b7-4707-b2e1-aca47b2db8e2.png)
+
+###	Run DynamoDB Local Container and ensure it works
+
