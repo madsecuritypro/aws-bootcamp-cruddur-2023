@@ -42,4 +42,16 @@ export CONNECTION_URL="postgresql://postgres:password@localhost:5432/crudder"
 
 
 ![image](https://user-images.githubusercontent.com/125198688/224505582-cde558c1-62c7-4e4d-a427-d35c274a0ca1.png)
+![image](https://user-images.githubusercontent.com/125198688/224505632-2880928c-4a87-4910-8bfa-ad8bf1f29629.png)
 
+
+![image](https://user-images.githubusercontent.com/125198688/224506021-b122b410-f325-405f-9414-776ab3209e6b.png)
+
+![image](https://user-images.githubusercontent.com/125198688/224506525-2f51df5c-78e2-4235-a67a-5a85a81a0647.png)
+
+
+
+![image](https://user-images.githubusercontent.com/125198688/224503726-ec116eb2-1999-46fe-8744-a733419792b8.png)
+
+
+![image](https://user-images.githubusercontent.com/125198688/224510090-5408c088-7f16-417f-a11c-b1ecca905b92.png)
